@@ -1,2 +1,1 @@
-# LSTMreadme
-#Stock price prediction using ML
+# Stock price prediction using ML
