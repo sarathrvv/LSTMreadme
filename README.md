@@ -19,7 +19,7 @@ financial news in properly forecasting stock prices. Because the news data was n
 preprocessing processes were required to remove duplicates, create the dictionary, and match
 the news data to price movements on specified days.
 # Results
-The LSTM model yielded a loss of " " percent. This model&#39;s training and test errors
+The LSTM model yielded a loss of "0.0038" percent. This model&#39;s training and test errors
 were both large, indicating that it will almost certainly never be competent enough to forecast
 stock prices. This also implies that the algorithm detects little pattern in the next day&#39;s price
 change in comparison to the previous day&#39;s price change. This reflects the fact that the stock
